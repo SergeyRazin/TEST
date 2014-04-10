@@ -1,68 +1,0 @@
-Ó'RÎ'
-“R
-.R*MyORMx.Program.Main(String[])8ÿÿÿÿÿÿÿÿÿOc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\program.csìğ«éò·Ï1
-şRù
-(R$MyORM.Person.get_Name()8ÿÿÿÿÿÿÿÿÿ
-.R*MyORM.Person.set_Name(String)8ÿÿÿÿÿÿÿÿÿ
-'R#MyORM.Person.get_Age()8ÿÿÿÿÿÿÿÿÿ
-,R(MyORM.Person.set_Age(Int32)8ÿÿÿÿÿÿÿÿÿ
-G	RC¢œâÿóÚÇèMyORMx.Person.get_Name()(8ÿÿÿÿÿÿÿÿÿ@HPXhıı®˜¸ÛÇè
-M
-RI÷¢åÿóÚÇèMyORMx.Person.set_Name(String)(8ÿÿÿÿÿÿÿÿÿ@HPXhıı®˜¸ÛÇè
-FRB÷¢åÿóÚÇèMyORMx.Person.get_Age()(8ÿÿÿÿÿÿÿÿÿ@HPXhıı®˜¸ÛÇè
-KRG÷¢åÿóÚÇèMyORMx.Person.set_Age(Int32)(8ÿÿÿÿÿÿÿÿÿ@HPXhıı®˜¸ÛÇè
-0R,MyORMx.Person.CompareTo(Object)8ÿÿÿÿÿÿÿÿÿZc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\dataclasses\person.cs§è¤ù¼Ï1
-˜R“
-'R#MyORMx.Storage..ctor()8ÿÿÿÿÿÿÿÿÿ[c:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\dataclasses\storage.csú× °¸Ï1
-Á
-R¼
-
-IRE8MyORMx.AccessorsClasses.AccessorMemory.AddPerson(Person)8ÿÿÿÿÿÿÿÿÿ
-LRH;MyORMx.AccessorsClasses.AccessorMemory.RemovePerson(String)8ÿÿÿÿÿÿÿÿÿ
-RRNAMyORMx.AccessorsClasses.AccessorMemory.InsertPerson(Int32,Person)8ÿÿÿÿÿÿÿÿÿ
-AR=0MyORMx.AccessorsClasses.AccessorMemory.ShowAll()8ÿÿÿÿÿÿÿÿÿ
-?R;.MyORMx.AccessorsClasses.AccessorMemory.Clear()8ÿÿÿÿÿÿÿÿÿ
-rRnğ·üß¼ÛÇè'MyORMx.AccessorMemory.AddPerson(Person)2	222	8ÿÿÿÿÿÿÿÿÿ@HPhÄéãƒÀÛÇè
-¾R¹í®¤ÅÅÛÇè*MyORMx.AccessorMemory.RemovePerson(String)2	222222222/222	8ÿÿÿÿÿÿÿÿÿ@HPh¿¦»¡ÉÛÇè
-{Rw°ä«ƒ»ÜÇè0MyORMx.AccessorMemory.InsertPerson(Int32,Person)2"	"2##2$$2%	%8ÿÿÿÿÿÿÿÿÿ@HPh¿ãÑ¡»ÜÇè
-JRF¡æ€û®İÇèMyORMx.AccessorMemory.Clear()(8ÿÿÿÿÿÿÿÿÿ@HPhÛæÀ¯İÇè
-`R\‘øÿ¬ºÛÇèMyORMx.AccessorMemory.Count()28	82992:	:8ÿÿÿÿÿÿÿÿÿ@HPhÁûÜËºÛÇè
-.R*MyORMx.AccessorMemory..ctor()8ÿÿÿÿÿÿÿÿÿ
-pRlöšİÇ²ÜÇè-MyORMx.AccessorMemory.GetPersonByIndex(Int32)23	324425	58ÿÿÿÿÿÿÿÿÿ@HPh¶£Ï´ÜÇè
-QRM$MyORMx.AccessorMemory.GetAllPerson()2(	(2))2*	*8ÿÿÿÿÿÿÿÿÿHPgc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\accessorsclasses\accessormemory.csšá¢Œ²½Ï1
-oRk\c:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\interfaces\iaccessor.cs®ñÏÀƒ¿Ï1
-uRqbc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\properties\assemblyinfo.cs‚—Ï”ã¼Ï1
-¿ Rº
-O!RK˜ÍíÃşİÇè"MyORMx.Client.RemovePerson(String)(8ÿÿÿÿÿÿÿÿÿ@HPhÜàæàªŞÇè
-U"RQÃ›îÃşİÇè(MyORMx.Client.InsertPerson(Int32,Person)(8ÿÿÿÿÿÿÿÿÿ@HPhÜàæàªŞÇè
-I#REÃ›îÃşİÇèMyORMx.Client.GetAllPerson()(8ÿÿÿÿÿÿÿÿÿ@HPhÜàæàªŞÇè
-R$RN×éîÃşİÇè%MyORMx.Client.GetPersonByIndex(Int32)(8ÿÿÿÿÿÿÿÿÿ@HPhÜàæàªŞÇè
-B%R>ğ·ïÃşİÇèMyORMx.Client.Count()(8ÿÿÿÿÿÿÿÿÿ@HPhÜàæàªŞÇè
-B&R>ğ·ïÃşİÇèMyORMx.Client.Clear()(8ÿÿÿÿÿÿÿÿÿ@HPhÜàæàªŞÇè
-@'R<şë“È£ŞÇèMyORMx.Client..ctor()8ÿÿÿÿÿÿÿÿÿ@HPhÜàæàªŞÇè
-J(RF½î˜Ÿ®ŞÇè)MyORMx.Client.AddPerson(Person,IAccessor)(8ÿÿÿÿÿÿÿÿÿ@HNc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\client.csÇí¡¡¿Ï1
-¹)R´
-N*RJ…Åìë¶ŞÇè,UnitTests.ClientTEST.ClientConstructorTEST()(8d@PhÜàæàªŞÇèUc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\clienttest.csÌœÄ÷®¿Ï1
-Á+R¼
-H,RD7UnitTests.AccessorMemoryTestClass.UnitTest1.ClearTEST()8ÿÿÿÿÿÿÿÿÿ
-O-RK>UnitTests.AccessorMemoryTestClass.UnitTest1.GetAllPersonTEST()8ÿÿÿÿÿÿÿÿÿ
-K.RG:UnitTests.AccessorMemoryTestClass.UnitTest1.InsertPerson()8ÿÿÿÿÿÿÿÿÿ
-O/RK>UnitTests.AccessorMemoryTestClass.UnitTest1.RemovePersonTEST()8ÿÿÿÿÿÿÿÿÿ
-L0RH;UnitTests.AccessorMemoryTestClass.UnitTest1.AddPersonTEST()8ÿÿÿÿÿÿÿÿÿ
-H1RD7UnitTests.AccessorMemoryTestClass.UnitTest1.CountTEST()8ÿÿÿÿÿÿÿÿÿ
-I2RE8UnitTests.AccessorMemoryTestClass.UnitTest1.PersonTEST()8ÿÿÿÿÿÿÿÿÿ
-J3RF9UnitTests.AccessorMemoryTestClass.UnitTest1.StorageTEST()8ÿÿÿÿÿÿÿÿÿ
-]4RYıÿ¥‡ŞÇè4UnitTests.AccessorMemoryTEST.UnitTest1.StorageTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-[5RW–Î¦‡ŞÇè2UnitTests.AccessorMemoryTEST.UnitTest1.CountTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-_6R[¼œ§‡ŞÇè6UnitTests.AccessorMemoryTEST.UnitTest1.AddPersonTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-b7R^Ñê§‡ŞÇè9UnitTests.AccessorMemoryTEST.UnitTest1.RemovePersonTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-^8RZé¸¨‡ŞÇè5UnitTests.AccessorMemoryTEST.UnitTest1.InsertPerson()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-b9R^èé²‡ŞÇè9UnitTests.AccessorMemoryTEST.UnitTest1.GetAllPersonTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-[:RW¸³‡ŞÇè2UnitTests.AccessorMemoryTEST.UnitTest1.ClearTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-D;R@3UnitTests.AccessorMemoryTEST.UnitTest1.PersonTEST()8ÿÿÿÿÿÿÿÿÿ]c:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\accessormemorytest.cs€¸ƒÁÖ¾Ï1
-«<R¦
-@=R<-UnitTests.PersonTEST.PersonConsstructorTEST()8ÿÿÿÿÿÿÿÿÿPUc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\persontest.cs€ÏæÎ¿Ï1Ä>R¿
-¼?R·
-*Y@RUC:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\UnitTests\ClientTEST.cs*UnitTests.ClientTEST.ClientConstructorTEST (BARUnitTests\UnitTests.csprojR>h"BR{
-CRMyORMx\MyORMx.csprojRc:\users\hp home\documents\visual studio 2012\Projects\MyORMx\MyORMx\MyORMx.csproj ­˜Óîıÿÿÿÿ"oDRk
-AXC:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\UnitTests.csproj Ûê„âüÿÿÿÿ
